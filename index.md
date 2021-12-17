@@ -1,4 +1,6 @@
-# About Me
+# Portfolio
+maosasa
+## About Me
 
 笹倉 まお - Mao Sasakura
 email: maosasakura1998(gmail)
@@ -7,7 +9,7 @@ email: maosasakura1998(gmail)
 
 バックエンドエンジニアとしての就職を希望しています
 
-# Works
+## Works
 
 1. 製作物
     - 開発時期、期間：
@@ -39,7 +41,7 @@ email: maosasakura1998(gmail)
             構造体を利用してグラフのデータ構造を実装した
             
 
-# Programming Skills
+## Programming Skills
 
 - Python
     
@@ -53,7 +55,7 @@ email: maosasakura1998(gmail)
     入門中。Goを習得すれば時代の最先端をいくエンジニアになれる気がしたので。tenntennさんのハンズオンに取り組んでいる途中。https://github.com/tenntenn/gohandson
     
 
-# Other Skills
+## Other Skills
 
 - TOEIC 850点　2021年2月
 - TOEFL 83点　2020年6月
@@ -61,4 +63,4 @@ email: maosasakura1998(gmail)
 - HSK5級 153点　2020年9月
 - フィギュアスケートバッジテスト2級
 
-# Experiences
+## Experiences
