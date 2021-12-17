@@ -1,5 +1,4 @@
 # Portfolio
-maosasa
 ## About Me
 
 笹倉 まお - Mao Sasakura  
