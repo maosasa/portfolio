@@ -2,7 +2,7 @@
 maosasa
 ## About Me
 
-笹倉 まお - Mao Sasakura
+笹倉 まお - Mao Sasakura  
 email: maosasakura1998(gmail)
 
 東京大学工学部機械工学科 2023年3月卒業予定
