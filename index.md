@@ -15,7 +15,7 @@ email: maosasakura1998(gmail)
     
     ESPを使用しWiFiでスマートフォンから開閉できるようにしたスマートロック。筐体は3Dプリンタで製作した。
     
-    note: [https://note.com/maosasa/n/nc453dd188249](https://note.com/maosasa/n/nc453dd188249)
+    note: [スマートロックを作ったよ。](https://note.com/maosasa/n/nc453dd188249)
     
    ![image](https://assets.st-note.com/production/uploads/images/59695392/picture_pc_3de935ba055c3608cde3d2f4f9bd0d78.jpeg?width=800)
     
@@ -37,7 +37,7 @@ email: maosasakura1998(gmail)
     
     経路探索手法を用いて、「頭中将にとっての先帝は、頭中将 の 配偶者 である夕顔 の 配偶者 である光源氏 の 配偶者 である藤壺中宮 の 親」のように表示させるプログラム。任意の2人の登場人物の関係の全探索、最短経路探索、また直接の親子関係などが取れる。
     
-    code: https://github.com/maosasa/genji-graph
+    code: [genji-graph](https://github.com/maosasa/genji-graph)
     
     ![image](https://github.com/maosasa/genji-graph/blob/master/keizu.jpg?raw=true)
 
@@ -61,9 +61,9 @@ email: maosasakura1998(gmail)
     
     毎度の練習の出欠確認や大会申込の締切確認など、今まで人力で行なっていた仕事を、GoogleAppsScriptを用いてカレンダーやスプレッドシートと連携して自動化させ、LINEグループに実装しました。簡単なif文によって、個人との会話もできるようにしました。
     
-    qiita: [https://qiita.com/maosasa/items/aed6114be01ec78cbca8](https://qiita.com/maosasa/items/aed6114be01ec78cbca8)
+    qiita: [GoogleAppsScriptで部活の仕事をbot化した](https://qiita.com/maosasa/items/aed6114be01ec78cbca8)
     
-    code: https://github.com/maosasa/club-line-bot
+    code: [club-line-bot](https://github.com/maosasa/club-line-bot)
     
     ![image](https://github.com/maosasa/portfolio/blob/main/image/line_bot.png?raw=true)
     
@@ -80,7 +80,7 @@ email: maosasakura1998(gmail)
     
     可視化するデータの期間を選択できるように、PythonとJavaScriptを用いてインタラクティブにデータの可視化を行うプログラムを実装しました。扱いにくいデータの形でしたが、うまく成形するようにプログラムして、80年分の毎日のデータを扱えるようにしました。
     
-    code: https://github.com/maosasa/sun-data-web-page
+    code: [sun-data-web-page](https://github.com/maosasa/sun-data-web-page)
     
     ![image](https://github.com/maosasa/portfolio/blob/main/image/sun_plot.png?raw=true)
     
