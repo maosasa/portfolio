@@ -13,6 +13,8 @@ github: [maosasa](https://github.com/maosasa)
 note: [maosasa](https://note.com/maosasa)  
 qiita: [maosasa](https://qiita.com/maosasa)
 
+* * *
+
 ## Works
 
 ### スマートロック
@@ -21,7 +23,7 @@ ESPを使用しWiFiでスマートフォンから開閉できるようにした�
 
 note: [スマートロックを作ったよ。](https://note.com/maosasa/n/nc453dd188249)
 
-![image](https://assets.st-note.com/production/uploads/images/59695392/picture_pc_3de935ba055c3608cde3d2f4f9bd0d78.jpeg?width=800)
+<img src="https://assets.st-note.com/production/uploads/images/59695392/picture_pc_3de935ba055c3608cde3d2f4f9bd0d78.jpeg" width=500>
 
 - 開発時期、期間：2021年　2週間
 - 人数・役割：個人開発
@@ -43,7 +45,7 @@ note: [スマートロックを作ったよ。](https://note.com/maosasa/n/nc453
 
 code: [genji-graph](https://github.com/maosasa/genji-graph)
 
-![image](https://github.com/maosasa/genji-graph/blob/master/keizu.jpg?raw=true)
+<img src="https://github.com/maosasa/genji-graph/blob/master/keizu.jpg" width="500">
 
 - 開発時期、期間：2018年　2週間
 - 人数・役割：個人開発
@@ -68,8 +70,7 @@ qiita: [GoogleAppsScriptで部活の仕事をbot化した](https://qiita.com/mao
 
 code: [club-line-bot](https://github.com/maosasa/club-line-bot)
 
-![image](https://github.com/maosasa/portfolio/blob/main/image/line_bot.png?raw=true)
-
+<img src="https://github.com/maosasa/portfolio/blob/main/image/line_bot.png" width="500">
 
 - 開発時期、期間：2019年　1ヶ月
 - 人数・役割：個人開発
@@ -86,7 +87,7 @@ code: [club-line-bot](https://github.com/maosasa/club-line-bot)
 
 code: [sun-data-web-page](https://github.com/maosasa/sun-data-web-page)
 
-![image](https://github.com/maosasa/portfolio/blob/main/image/sun_plot.png?raw=true)
+<img src="https://github.com/maosasa/portfolio/blob/main/image/sun_plot.png" width="500">
 
 - 開発時期、期間：2019年　2週間
 - 人数・役割：個人開発
@@ -114,7 +115,7 @@ code: [sun-data-web-page](https://github.com/maosasa/sun-data-web-page)
 
 プレゼン: [https://drive.google.com/file/d/1zZeKAiLf8vgBCeTC6CtyhfAIj48gI-Er/view?usp=sharing](https://drive.google.com/file/d/1zZeKAiLf8vgBCeTC6CtyhfAIj48gI-Er/view?usp=sharing)
 
-![image](https://github.com/maosasa/portfolio/blob/main/image/dreamee.png?raw=true)
+<img src="https://github.com/maosasa/portfolio/blob/main/image/dreamee.png" width="500">
 
 - 開発時期、期間：2018年　2日
 - 人数・役割：3人　UI作成
@@ -152,6 +153,7 @@ code: [sun-data-web-page](https://github.com/maosasa/sun-data-web-page)
     
     入門中。Goを習得すれば時代の最先端をいくエンジニアになれる気がしたので。tenntennさんのハンズオンに取り組んでいる途中。https://github.com/tenntenn/gohandson
     
+* * *
 
 ## Other Skills
 
@@ -160,6 +162,8 @@ code: [sun-data-web-page](https://github.com/maosasa/sun-data-web-page)
 - 英検準1級　2016年2月
 - HSK5級 153点　2020年9月
 - フィギュアスケートバッジテスト2級
+
+* * *
 
 ## Experiences
 1. 東大シャッフルランチ立上げ・運営
