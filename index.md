@@ -165,7 +165,15 @@ code: [sun-data-web-page](https://github.com/maosasa/sun-data-web-page)
 
 * * *
 
-## Experiences
+## Work Experiences
+- matsuri technologies - Profit Management部 インターン
+- Google STEP Internship - Software Engineer
+- 家庭教師
+- 東進東大特進コース　チューター
+
+* * * 
+
+## Other Experiences
 1. 東大シャッフルランチ立上げ・運営
 2. TeaTime TechLab運営
 3. ものゼミTA
