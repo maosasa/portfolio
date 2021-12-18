@@ -193,7 +193,8 @@ code: [sun-data-web-page](https://github.com/maosasa/sun-data-web-page)
 
 ## Other Experiences
 1. 東大シャッフルランチ立上げ・運営
-2. TeaTime TechLab運営
-3. ものゼミTA
-4. 部活の仕事の効率化
+2. 中高生向けのプログラミング授業・進路講演の企画運営
+3. TeaTime TechLab運営
+4. ものゼミTA
+5. 部活の仕事の効率化
 
