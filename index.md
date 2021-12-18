@@ -45,7 +45,7 @@ note: [スマートロックを作ったよ。](https://note.com/maosasa/n/nc453
 
 code: [genji-graph](https://github.com/maosasa/genji-graph)
 
-<img src="https://github.com/maosasa/genji-graph/blob/master/keizu.jpg" width="500">
+<img src="https://github.com/maosasa/genji-graph/blob/master/keizu.jpg?raw=true" width="500">
 
 - 開発時期、期間：2018年　2週間
 - 人数・役割：個人開発
@@ -70,7 +70,7 @@ qiita: [GoogleAppsScriptで部活の仕事をbot化した](https://qiita.com/mao
 
 code: [club-line-bot](https://github.com/maosasa/club-line-bot)
 
-<img src="https://github.com/maosasa/portfolio/blob/main/image/line_bot.png" width="500">
+<img src="https://github.com/maosasa/portfolio/blob/main/image/line_bot.png?raw=true" width="500">
 
 - 開発時期、期間：2019年　1ヶ月
 - 人数・役割：個人開発
@@ -87,7 +87,7 @@ code: [club-line-bot](https://github.com/maosasa/club-line-bot)
 
 code: [sun-data-web-page](https://github.com/maosasa/sun-data-web-page)
 
-<img src="https://github.com/maosasa/portfolio/blob/main/image/sun_plot.png" width="500">
+<img src="https://github.com/maosasa/portfolio/blob/main/image/sun_plot.png?raw=true" width="500">
 
 - 開発時期、期間：2019年　2週間
 - 人数・役割：個人開発
@@ -115,7 +115,7 @@ code: [sun-data-web-page](https://github.com/maosasa/sun-data-web-page)
 
 プレゼン: [https://drive.google.com/file/d/1zZeKAiLf8vgBCeTC6CtyhfAIj48gI-Er/view?usp=sharing](https://drive.google.com/file/d/1zZeKAiLf8vgBCeTC6CtyhfAIj48gI-Er/view?usp=sharing)
 
-<img src="https://github.com/maosasa/portfolio/blob/main/image/dreamee.png" width="500">
+<img src="https://github.com/maosasa/portfolio/blob/main/image/dreamee.png?raw=true" width="500">
 
 - 開発時期、期間：2018年　2日
 - 人数・役割：3人　UI作成
