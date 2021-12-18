@@ -10,7 +10,7 @@ email: maosasakura1998(gmail)
 バックエンドエンジニアとしての就職を希望しています
 
 github: [maosasa](https://github.com/maosasa)  
-note: [maosasa](https://note.com/maosasa)
+note: [maosasa](https://note.com/maosasa)  
 qiita: [maosasa](https://qiita.com/maosasa)
 
 ## Works
