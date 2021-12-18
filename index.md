@@ -2,7 +2,7 @@
 
 ## About Me
 
-笹倉 まお - Mao Sasakura
+笹倉 まお - Mao Sasakura  
 email: maosasakura1998(gmail)
 
 東京大学工学部機械工学科 2023年3月卒業予定
@@ -32,6 +32,7 @@ email: maosasakura1998(gmail)
     - 使用した技術
         - Arduino
         - 3DCAD
+
 2. 有向グラフを利用した、源氏物語登場人物の相関検索CLIツール
     
     経路探索手法を用いて、「頭中将にとっての先帝は、頭中将 の 配偶者 である夕顔 の 配偶者 である光源氏 の 配偶者 である藤壺中宮 の 親」のように表示させるプログラム。任意の2人の登場人物の関係の全探索、最短経路探索、また直接の親子関係などが取れる。
@@ -54,6 +55,7 @@ email: maosasakura1998(gmail)
             
             構造体を利用してグラフのデータ構造を実装した
             
+
 3. 部活の仕事を効率化させるためのLINEbot『アイスちゃん』
     
     毎度の練習の出欠確認や大会申込の締切確認など、今まで人力で行なっていた仕事を、GoogleAppsScriptを用いてカレンダーやスプレッドシートと連携して自動化させ、LINEグループに実装しました。簡単なif文によって、個人との会話もできるようにしました。
@@ -118,6 +120,7 @@ email: maosasakura1998(gmail)
         - Java
         - Android
 
+
 ## Programming Skills
 
 - Python
@@ -137,7 +140,7 @@ email: maosasakura1998(gmail)
     普段Googleやその他サービスのAPIを利用するときに使っている。
     
     基本的な機能はリファレンスを見なくても書けるレベル。
-    
+
 - Go
     
     入門中。Goを習得すれば時代の最先端をいくエンジニアになれる気がしたので。tenntennさんのハンズオンに取り組んでいる途中。https://github.com/tenntenn/gohandson
@@ -152,8 +155,8 @@ email: maosasakura1998(gmail)
 - フィギュアスケートバッジテスト2級
 
 ## Experiences
-
 1. 東大シャッフルランチ立上げ・運営
 2. TeaTime TechLab運営
 3. ものゼミTA
 4. 部活の仕事の効率化
+
