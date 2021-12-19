@@ -137,6 +137,11 @@ code: [sun-data-web-page](https://github.com/maosasa/sun-data-web-page)
     - Java
     - Android
 
+## Awards
+
+- 東大ガールズハッカソン2018 最優秀賞
+
+制作したプロダクトは上記 [Dreamee](#dreamee)
 
 ## Programming Skills
 
@@ -182,6 +187,7 @@ code: [sun-data-web-page](https://github.com/maosasa/sun-data-web-page)
     - ソフトウェアエンジニアとして翻訳チームに所属。
     - 自分1人でのプロジェクトを頂き、Pythonによる開発、評価、英語プレゼンを行った。
     - Google Style Guideに則ったコーディング、ユニットテスト、バージョン管理を学んだ。
+    - 成果を評価していただき、Returning Internshipのオファーをいただきました。
 - 家庭教師　2018年1月-
     - 中高生3名の指導経験があり、うち1名は現在も指導中。
     - 教科の勉強だけでなく、生徒の勉強に対する意識、スケジュール管理のサポートにも力を入れて指導している。
