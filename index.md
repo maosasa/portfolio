@@ -196,5 +196,5 @@ code: [sun-data-web-page](https://github.com/maosasa/sun-data-web-page)
 2. 中高生向けのプログラミング授業・進路講演の企画運営
 3. TeaTime TechLab運営
 4. ものゼミTA
-5. 部活の仕事の効率化
+6. 部活の仕事の効率化
 
