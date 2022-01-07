@@ -22,7 +22,7 @@ qiita: [maosasa](https://qiita.com/maosasa)
 道で見かける、交番に届けるほどでもない落とし物を位置情報と共に共有できるSNS。地図、リストの2種類の方法で閲覧できる。
 
 code: [otoshimono](https://github.com/maosasa/otoshimono)  
-page: https://otoshimono-app.herokuapp.com/
+page: [https://otoshimono-app.herokuapp.com/](https://otoshimono-app.herokuapp.com/)
 
 <img src="https://github.com/maosasa/portfolio/blob/main/image/otoshimono.png?raw=true" width=500>
 
