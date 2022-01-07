@@ -24,6 +24,8 @@ qiita: [maosasa](https://qiita.com/maosasa)
 code: [otoshimono](https://github.com/maosasa/otoshimono)  
 page: https://otoshimono-app.herokuapp.com/
 
+<img src="https://github.com/maosasa/portfolio/blob/main/image/otoshimono.png?raw=true" width=500>
+
 - 開発時期、期間：2021年　2週間（現在も改良中）
 - 人数・役割：2人　基本機能の要件定義、実装
 - 目的
