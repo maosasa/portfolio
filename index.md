@@ -223,9 +223,13 @@ code: [sun-data-web-page](https://github.com/maosasa/sun-data-web-page)
 * * * 
 
 ## Other Experiences
-1. 東大シャッフルランチ立上げ・運営
-2. 中高生向けのプログラミング授業・進路講演の企画運営
-3. TeaTime TechLab運営
-4. ものゼミTA
-6. 部活の仕事の効率化
+1. 東大シャッフルランチ立上げ・運営  
+[プロジェクト報告スライド](https://drive.google.com/file/d/1B9nIZhK3wJqKRvie8n6t4bw06ewpt4wx/view?usp=sharing)
+1. 中高生向けのプログラミング授業・進路講演の企画運営  
+[開催報告](http://swa.city-osaka.ed.jp/weblog/index.php?id=h543541&type=1&column_id=1263822&category_id=2216)
+1. TeaTime TechLab運営  
+[イベントレポート](https://drive.google.com/file/d/1fe4FZ0G_8gEGof8Knjy70bmdgqMjohAp/view?usp=sharing)
+1. ものゼミTA  
+[授業ページ](https://monozemi.akg.t.u-tokyo.ac.jp/)
+1. 部活の仕事の効率化
 
